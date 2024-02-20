@@ -3,6 +3,9 @@
 
 I implemented this service using [React](https://github.com/facebook/create-react-app) and applied several Feature like Create, Update, Delete, Mark as Done and Search on todo list.
 
+## Screenshot
+![alt text](https://github.com/SiswoHandoko/waizly-frontend/blob/main/screenshot-app.png?raw=true)
+
 ## Installation
 
 ```bash
